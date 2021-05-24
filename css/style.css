@@ -703,7 +703,7 @@ input[type="submit"]:hover {
 	width: 100%;
 	top: 0;
 	left: 0;
-	opacity: 0.4;
+	opacity: 0.2;
 	-webkit-transition: all 4s ease;
 	-moz-transition: all 4s ease;
 	-o-transition: all 4s ease;
