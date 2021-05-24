@@ -104,7 +104,7 @@ div#banner-top {
 div#banner-top h1 {
     font-size: 5.6em;
     color:#000;
-    font-family: 'Abril Fatface', cursive;
+    font-family: 'Vollkorn', serif;
 }
 div#banner-top h1 span.left-icon {
   background: url(../images/left.png) no-repeat 0px 15px;
@@ -198,7 +198,7 @@ div#banner-top h2 span.right-icon {
   margin-bottom: 4em;
 }
 .work h3 {
-	font-family: 'Abril Fatface', cursive;
+	font-family: 'Vollkorn', serif;
   font-size: 3.6em;
   padding: .5em 0;
   width: 51%;
@@ -471,7 +471,7 @@ div#portfoliolist {
       margin: 4em 0;
 }
 .about h3 {
-	font-family: 'Abril Fatface', cursive;
+	font-family: 'Vollkorn', serif;
   font-size: 3.6em;
   padding: .5em 0;
   width: 55%;
@@ -559,7 +559,7 @@ div#portfoliolist {
       margin: 4em 0;
 }
 .contact h3 {
-	font-family: 'Abril Fatface', cursive;
+	font-family: 'Vollkorn', serif;
   font-size: 3.6em;
   padding: .5em 0;
   width: 62%;
